@@ -9,7 +9,7 @@
     "description": "PWA \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435",
     "icons": [
         {
-            "src": "https://isikdev.github.io/PWA-KWORK/manifest/icon-144x144.png",
+            "src": "https://isikdev.github.io/PWA-KWORK/manifest/icon-144x144.webp",
             "sizes": "144x144",
             "type": "image/png",
             "purpose": "any"
